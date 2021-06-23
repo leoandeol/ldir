@@ -1,0 +1,12 @@
+torch
+torchvision
+h5py
+numpy
+scipy
+scikit-learn
+wandb
+pillow
+timm
+nfnets-pytorch
+POT
+umap
